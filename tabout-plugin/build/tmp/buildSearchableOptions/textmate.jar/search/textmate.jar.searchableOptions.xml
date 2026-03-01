@@ -1,0 +1,6 @@
+<options>
+  <configurable id="reference.settingsdialog.textmate.bundles" configurable_name="TextMate Bundles">
+    <option name="bundles" hit="TextMate Bundles" />
+    <option name="textmate" hit="TextMate Bundles" />
+  </configurable>
+</options>

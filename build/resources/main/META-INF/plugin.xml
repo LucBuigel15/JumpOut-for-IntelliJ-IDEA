@@ -1,0 +1,18 @@
+<idea-plugin>
+  <idea-version since-build="232" until-build="251.*" />
+  <version>1.0.0</version>
+  <id>com.tabout.intellij</id>
+  <name>Tabout</name>
+  <vendor email="tabout@example.com">Tabout</vendor>
+  <description>Jump out of brackets, quotes, and other closing characters using Tab.
+        Inspired by the VS Code Tabout extension.
+
+        When your cursor is just before a closing character (`, ', ", ), ], }),
+        pressing Tab will jump over it instead of inserting a tab.</description>
+  <depends>com.intellij.modules.platform</depends>
+  <actions>
+    <action id="com.tabout.TaboutAction" class="com.tabout.TaboutAction" text="Tabout">
+      <keyboard-shortcut keymap="$default" first-keystroke="TAB" />
+    </action>
+  </actions>
+</idea-plugin>
