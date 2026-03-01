@@ -1,5 +1,5 @@
 <idea-plugin>
-    <id>com.tabout.intellij</id>
+    <id>com.tabout.plugin</id>
     <name>Tabout</name>
     <vendor email="tabout@example.com">Tabout</vendor>
     <description>

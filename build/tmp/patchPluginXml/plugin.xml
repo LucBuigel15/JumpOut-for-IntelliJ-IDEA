@@ -1,7 +1,7 @@
 <idea-plugin>
   <idea-version since-build="232" until-build="251.*" />
   <version>1.0.0</version>
-  <id>com.tabout.intellij</id>
+  <id>com.tabout.plugin</id>
   <name>Tabout</name>
   <vendor email="tabout@example.com">Tabout</vendor>
   <description>Jump out of brackets, quotes, and other closing characters using Tab.
