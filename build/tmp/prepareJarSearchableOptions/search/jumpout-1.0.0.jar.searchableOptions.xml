@@ -1,0 +1,5 @@
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="jumpout" path="ActionManager" hit="Jumpout" />
+  </configurable>
+</options>

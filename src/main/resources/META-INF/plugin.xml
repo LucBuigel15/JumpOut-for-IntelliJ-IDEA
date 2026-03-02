@@ -1,7 +1,7 @@
 <idea-plugin>
-    <id>com.tabout.plugin</id>
-    <name>Tabout</name>
-    <vendor email="tabout@example.com">Tabout</vendor>
+    <id>com.jumpout.plugin</id>
+    <name>Jumpout</name>
+    <vendor email="jumpout@example.com">Jumpout</vendor>
     <description>
         Jump out of brackets, quotes, and other closing characters using Tab.
         Inspired by the VS Code Tabout extension.
@@ -13,9 +13,9 @@
     <depends>com.intellij.modules.platform</depends>
 
     <actions>
-        <action id="com.tabout.TaboutAction"
+        <action id="com.jumpout.JumpoutAction"
                 class="com.tabout.TaboutAction"
-                text="Tabout">
+                text="Jumpout">
             <keyboard-shortcut keymap="$default" first-keystroke="TAB"/>
         </action>
     </actions>
