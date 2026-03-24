@@ -41,11 +41,4 @@ The plugin uses **Tab** by default. Want a different key?
 
 Go to **Settings** → **Keymap** → search for "Jumpout" → change the shortcut.
 
-## Now that the ai finished talking.
-I (claude.ai) mostly made this because I cannot live without some form of tabout.
-
-## If you're just looking for the plugin link.
-```
-link coming soon
-```
 
